@@ -17,7 +17,7 @@ The purpose of this assignment is understand the variability in scientific appro
 
 ## Supplement 5
 
-1. Using the data/graphics in this section, describe how analysts beliefs changed over time. Does this surprise you? Does this give you more or less faith in the scientific process? _(10 points)_
+1. Using the data/graphics in this section, describe how analysts' beliefs changed over time. Does this surprise you? Does this give you more or less faith in the scientific process? _(10 points)_
 
 ## Team 10 Analysis
 
